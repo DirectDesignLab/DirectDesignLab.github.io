@@ -1,0 +1,14 @@
+.projects-topic {
+    text-align: center;
+    padding: 2rem;
+  }
+  
+  .projects-topic img {
+    width: 300px;
+    height: auto;
+  }
+  
+  .projects-topic p {
+    font-size: 1.2rem;
+    margin-top: 1rem;
+  }

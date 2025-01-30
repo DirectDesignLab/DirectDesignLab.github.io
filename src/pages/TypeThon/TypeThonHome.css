@@ -1,0 +1,16 @@
+.type-thon-home {
+    text-align: center;
+    padding: 2rem;
+  }
+  
+  .type-thon-home a {
+    display: block;
+    margin: 0.5rem 0;
+    text-decoration: none;
+    color: #333;
+    font-size: 1.2rem;
+  }
+  
+  .type-thon-home a:hover {
+    text-decoration: underline;
+  }

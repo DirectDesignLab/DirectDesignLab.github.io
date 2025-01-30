@@ -1,0 +1,14 @@
+.type-thon-topic {
+  text-align: center;
+  padding-top: 0; /* 필요 시 조정 */
+  padding-bottom: 60px; /* 필요 시 조정 */
+}
+
+.content-container {
+  position: relative;
+  width: 100%;
+  height: calc(100vh - 120px); /* 네비게이션 바와 푸터 높이 제외 */
+  overflow: hidden;
+  margin-top: 0; /* 필요 시 조정 */
+  margin-bottom: 60px; /* 필요 시 조정 */
+}

@@ -1,0 +1,16 @@
+.about {
+    text-align: center;
+    padding: 2rem;
+    background-color: brown;
+    height: 80vh; /* 전체 높이 설정 */
+  }
+  
+  .about img {
+    width: 300px;
+    height: auto;
+  }
+  
+  .about p {
+    font-size: 1.2rem;
+    margin-top: 1rem;
+  }
