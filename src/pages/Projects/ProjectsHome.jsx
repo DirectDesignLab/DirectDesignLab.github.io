@@ -1,9 +1,40 @@
-import React from 'react';
+import React, { useEffect, useState } from 'react';
 import { Link } from 'react-router-dom';
-import projectsData from '../../data/projects/1_cafe_chromatography.json'; //파일 이름 확인
 import './ProjectsHome.css';
 
 function ProjectsHome() {
+  const [projectsData, setProjectsData] = useState([]);
+  const [loading, setLoading] = useState(true);
+  const [error, setError] = useState(null);
+
+  useEffect(() => {
+    // 데이터 로드
+    import('../../data/projects/1_cafe_chromatography.json')
+      .then((module) => {
+        const data = module.default;
+        if (Array.isArray(data)) {
+          setProjectsData(data);
+        } else {
+          setError('Fetched data is not an array');
+        }
+      })
+      .catch((error) => {
+        setError('Error loading JSON data');
+        console.error(error);
+      })
+      .finally(() => {
+        setLoading(false);
+      });
+  }, []);
+
+  if (loading) {
+    return <div>Loading...</div>;
+  }
+
+  if (error) {
+    return <div>{error}</div>;
+  }
+
   return (
     <div className="projects-home">
       <h1>Projects</h1>
