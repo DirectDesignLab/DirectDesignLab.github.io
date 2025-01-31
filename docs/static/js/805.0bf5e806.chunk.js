@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkdirectdesignlab_github_io=self.webpackChunkdirectdesignlab_github_io||[]).push([[805],{805:i=>{i.exports=JSON.parse('[{"id":"1","title":"SCRIPT FUSION"},{"id":"2","title":"TRADITION MODULARITY"},{"id":"3","title":"MAL-MO-E"}]')}}]);
