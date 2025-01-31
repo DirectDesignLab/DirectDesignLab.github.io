@@ -1,21 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1558.47 1581.83">
-  <rect x="826.08" y="0" width="732.39" height="117.34"/>
-  <rect x="826.08" y="365.91" width="732.39" height="117.34"/>
-  <rect x="1108.29" y="548.86" width="167.97" height="117.34"/>
-  <rect x="826.08" y="731.81" width="732.39" height="117.34"/>
-  <rect x="1024.31" y="914.76" width="335.93" height="117.34"/>
-  <rect x="826.08" y="1097.72" width="732.39" height="117.34"/>
-  <rect x="826.08" y="1280.67" width="732.39" height="117.34"/>
-  <rect x="1024.31" y="1463.62" width="335.93" height="117.34"/>
-  <rect x="3.05" y="914.76" width="335.93" height="117.34"/>
-  <rect x="3.05" y="1098" width="335.93" height="117.34"/>
-  <rect x="3.05" y="1281.25" width="335.93" height="117.34"/>
-  <rect x="0" y="1464.49" width="732.39" height="117.34"/>
-  <rect x="-215.9" y="398.85" width="549.15" height="117.34" transform="translate(-398.85 516.2) rotate(-90)"/>
-  <rect x="146.07" y="502.76" width="335.93" height="117.34" transform="translate(26.63 1136.95) rotate(-124.24)"/>
-  <rect x="3.05" y="0" width="732.39" height="117.34"/>
-  <rect x="307.52" y="490.19" width="732.39" height="117.34" transform="translate(124.86 1222.57) rotate(-90)"/>
-  <rect x="387.78" y="182.95" width="167.97" height="117.34"/>
-  <rect x="826.08" y="182.95" width="732.39" height="117.34"/>
+<svg id="Layer_1" xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 1198.5 1216.5">
+  <!-- Generator: Adobe Illustrator 29.2.1, SVG Export Plug-In . SVG Version: 2.1.0 Build 116)  -->
+  <rect x="635.3" width="563.2" height="90.2"/>
+  <rect x="635.3" y="281.4" width="563.2" height="90.2"/>
+  <rect x="852.3" y="422.1" width="129.2" height="90.2"/>
+  <rect x="635.3" y="562.8" width="563.2" height="90.2"/>
+  <rect x="787.7" y="703.5" width="258.3" height="90.2"/>
+  <rect x="635.3" y="844.2" width="563.2" height="90.2"/>
+  <rect x="635.3" y="984.9" width="563.2" height="90.2"/>
+  <rect x="787.7" y="1125.6" width="258.3" height="90.2"/>
+  <rect x="2.3" y="703.5" width="258.3" height="90.2"/>
+  <rect x="2.3" y="844.4" width="258.3" height="90.2"/>
+  <rect x="2.3" y="985.3" width="258.3" height="90.2"/>
+  <rect y="1126.3" width="563.2" height="90.2"/>
+  <rect y="140.7" width="90.2" height="422.3"/>
+  <rect x="196.4" y="302.6" width="90.2" height="258.3" transform="translate(-201.1 210.7) rotate(-34.2)"/>
+  <rect x="2.3" width="563.2" height="90.2"/>
+  <rect x="473" y="140.5" width="90.2" height="563.2"/>
+  <rect x="298.2" y="140.7" width="129.2" height="90.2"/>
+  <rect x="635.3" y="140.7" width="563.2" height="90.2"/>
 </svg>
