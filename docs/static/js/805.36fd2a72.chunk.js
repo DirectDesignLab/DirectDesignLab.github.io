@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkdirectdesignlab_github_io=self.webpackChunkdirectdesignlab_github_io||[]).push([[805],{805:i=>{i.exports=JSON.parse('[{"id":"1","title":"topic1"},{"id":"2","title":"topic2"},{"id":"3","title":"topic3"}]')}}]);
