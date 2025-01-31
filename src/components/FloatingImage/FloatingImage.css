@@ -1,14 +1,15 @@
 :root {
   --image-scale: 3;
   --image-size: calc(100px * var(--image-scale));
-  --image-speed: 1;
+  --image-speed: 0.8;
 }
 
 .floating-image {
   position: absolute;
   width: var(--image-size);
   height: var(--image-size);
-  max-width: 100%;
+  max-width: 232px;
+  max-height: 240px;
   cursor: pointer;
   transition: transform 0.5s ease;
   object-fit: contain;

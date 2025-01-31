@@ -12,7 +12,7 @@ function TypeThonHome() {
   const scrollSpeed = 0.2; // 스크롤 속도 조절
   const dampingFactor = 0.9; // 감속 계수
   const itemSpacing = 100; // 텍스트 간의 간격 (픽셀)
-  const circleRadius = 520; // 원의 반지름 (픽셀)
+  const circleRadius = 440; // 원의 반지름 (픽셀)
   const displayAngle = 300; // 텍스트들이 배치될 각도 범위
   const yOffset = -84; // y 축 오프셋 추가 (픽셀)
 
